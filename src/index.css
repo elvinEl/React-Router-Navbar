@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    background-color: lime;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+nav{
+    display: flex;
+}
